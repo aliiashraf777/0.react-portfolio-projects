@@ -2,45 +2,20 @@
 
 A curated collection of my best React.js projects, showcasing real-world applications, UI/UX skills, and clean architecture.
 
-<!-- --- -->
+## 🎨 UI / Styling Projects
+- Tailwind Project 1
+- Sass Project 1
+- CSS Project 1
 
-## 📌 Featured Projects
+## ⚙️ State Management (Redux)
+- Project 1
+- Project 2
 
-### 1. Project Name
-🔗 Live Demo: https://your-link.com  
-📂 Repository: https://github.com/yourname/project-repo  
+## 🌐 API-Based Projects
+- Project 1
+- Project 2
 
-💡 Description:
-Short, clear explanation of what it does.
+## 🧪 TypeScript Projects
+- Project 1
+- Project 2
 
-⚙️ Tech Stack:
-- React
-- Tailwind / CSS
-- APIs / Firebase / etc
-
----
-
-### 2. Project Name
-...
-
----
-3. Add Visual Proof (Non-Negotiable)
-
-For each project:
-
-Screenshot OR GIF
-(Optional but powerful) Loom demo video
-
-Because:
-
-Recruiters don’t run your code — they scan visuals.
-
----
-4. Categorize Projects (Advanced Move)
-
-Instead of random listing:
-
-## 🧠 Advanced Projects
-## 🎨 UI/UX Focused
-## ⚙️ API Based Projects
-## 🧪 Experimental Projects
