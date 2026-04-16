@@ -107,8 +107,6 @@ A curated collection of my best React.js projects, showcasing real-world applica
 - 💻 Repo: https://github.com/aliiashraf777/1rss-dev-portfolio  
 - 🔗 Live: https://1rss-dev-portfolio.vercel.app/  
 
----
-
 ### 🎯 Alex Portfolio (Folio Variant)
 - 💻 Repo: https://github.com/aliiashraf777/1rcsFol-inbio-portfolio  
 - 🔗 Live: https://1rcs-fol-inbio-portfolio.vercel.app/  
